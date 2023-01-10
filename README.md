@@ -5,7 +5,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...   - mail- "NishantChandra85@gmail.com"
                         
-                        .-linkedin- "www.linkedin.com/in/iamnishantchandra"
+                        -linkedin- "www.linkedin.com/in/iamnishantchandra"
+                        
+                        -github- "https://github.com/iamnishantchandra"
 
 <!---
 NishantChandra85/NishantChandra85 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
